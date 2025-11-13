@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 
 # C extensions
-*.so
+# *.so
 
 # Distribution / packaging
 .Python
@@ -73,5 +73,5 @@ docs/_build/
 
 # dylib
 rocketmq/*.dylib
-rocketmq/*.so
+# rocketmq/*.so
 rocketmq/*.dll
